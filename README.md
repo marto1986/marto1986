@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hola, Soy Martín 👋
 
-<!--
-**marto1986/marto1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :computer: Acerca de mi
+``` js
+const marto1986 = {
+education: "UTN - Regional Haedo",
+technologies: {
+        frontEnd: {
+            css: ["Bootstrap"],
+            javascript: ["jQuery", "AJAX"]
+        },
+        backEnd: {
+            .NET Framework(C#): ["MVC5", "Servicios WCF", "Web API (HTTP Services/REST Services)", "ADO.NET", "LINQ"],
+            PHP: ["Codeigniter"]
+        },
+        databases: ["SQL Server", "MySql"]
+    },
+passions: ['web development']
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame
+- [LinkedIn](https://www.linkedin.com/in/martin-matias/)
+- [Instagram](https://www.instagram.com/martin__matias/)
