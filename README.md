@@ -3,7 +3,10 @@
 ## :computer: Acerca de mi
 ``` js
 const marto1986 = {
-education: "UTN - Regional Haedo",
+education: {
+        university: ["UTN - Regional Haedo"],
+        technician: ["Tecnicatura Universitaria en Programación"]
+        },
 technologies: {
         frontEnd: {
             css: ["Bootstrap"],
