@@ -13,7 +13,9 @@ technologies: {
             javascript: ["jQuery", "AJAX"]
         },
         backEnd: {
-            .NET Framework(C#): ["MVC5", "Servicios WCF", "Web API (HTTP Services/REST Services)", "ADO.NET", "LINQ"],
+            .NET Framework(C#): ["MVC5", "Servicios WCF", 
+                "Web API (HTTP Services/REST Services)", 
+                "ADO.NET", "LINQ"],
             PHP: ["Codeigniter"]
         },
         databases: ["SQL Server", "MySql"]
