@@ -1,5 +1,5 @@
 ### Hola, Soy Martín 👋
-![header](https://user-images.githubusercontent.com/20442967/88331812-f3606c00-cd03-11ea-9851-ec1da208e17c.jpg)
+![header](https://user-images.githubusercontent.com/20442967/88333521-c3669800-cd06-11ea-8177-3f631158a408.jpg)
 
 ## :computer: Acerca de mi
 ``` js
